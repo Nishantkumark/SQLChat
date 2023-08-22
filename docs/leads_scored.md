@@ -11,7 +11,6 @@
 | user_full_name  | VARCHAR(255)         | Full name of the user                  |
 | user_email      | VARCHAR(255)         | User's email address                   |
 | member_rating   | INT                  | Member rating                          |
-| optin_time      | TIME                 | Opt-in time                            |
 | country_code    | VARCHAR(2)           | Country code                           |
 | made_purchase   | INT                  | Indicator if a purchase was made       |
 | optin_days      | INT                  | Number of opt-in days                  |
